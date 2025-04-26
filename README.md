@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
-<details>
-  <summary>Ferris fortune 🦀 (click!)</summary>
+<details open>
+  <summary>Ferris fortune 🦀 (click to hide)</summary>
 
   <p align="center">
     <img src="assets/ferris_says_terminal.gif""
