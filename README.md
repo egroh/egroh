@@ -38,7 +38,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egroh&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000" height="180" alt="egroh's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=egroh&show_icons=true&hide_border=true&theme=transparent" height="180" alt="egroh's GitHub stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egroh&layout=compact&hide_border=true&theme=transparent&bg_color=00000000" height="180" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egroh&layout=compact&hide_border=true&theme=transparent" height="180" alt="Top languages"/>
 </p>
